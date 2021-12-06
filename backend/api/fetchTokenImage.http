@@ -1,0 +1,6 @@
+POST http://localhost:8080/v1/fetch/image HTTP/1.1
+Content-Type: application/json
+
+{
+    "tokenUri": "https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?b=1&k=20&m=517188688&s=170667a&w=0&h=AF2jDsSkcse_G3a9BCQA22LDhezmxIUZKx5vRh3aFDI="
+}
